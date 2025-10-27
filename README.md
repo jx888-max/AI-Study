@@ -164,6 +164,8 @@ Reasoning RAG
 https://arxiv.org/html/2506.10408v1
 
 3. Multi-Agent
+适合入门的agent教程
+https://github.com/datawhalechina/hello-agents
 
 https://www.anthropic.com/engineering/multi-agent-research-system
 
@@ -192,6 +194,9 @@ https://codelabs.developers.google.com/intro-a2a-purchasing-concierge?hl=zh-cn#0
 5. LangGraph
 
 https://docs.langchain.com/oss/python/langgraph/overview
+
+6，llm入门
+https://github.com/datawhalechina/happy-llm
 
 第三节：基础算法
 
