@@ -260,6 +260,9 @@ https://github.com/huggingface/transformers
 
 https://arxiv.org/html/2503.04641v1
 
+7，DeepResearch
+https://huggingface.co/FractalAIResearch/Fathom-Search-4B
+
 第四节：LLM案例，新闻
 
 https://www.softwebsolutions.com/resources/llm-use-cases/
